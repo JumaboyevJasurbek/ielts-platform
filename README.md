@@ -81,22 +81,6 @@ Frontend: http://localhost:3000 da ishga tushadi
 - Tailwind CSS responsive classes
 - Barcha qurilmalarda ishlaydi
 
-## 🐛 Debugging
-
-Backend loglar:
-
-```bash
-cd backend
-npm run start:dev
-```
-
-Frontend development server:
-
-```bash
-cd frontend
-npm run dev
-```
-
 ## 📈 Kelajakda Qo'shiladigan Xususiyatlar
 
 - [ ] User authentication
